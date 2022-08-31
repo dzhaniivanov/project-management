@@ -38,7 +38,7 @@ export default function AddClientModal() {
     <>
       <button
         type="button"
-        className="btn btn-secondry"
+        className="btn btn-secondary"
         data-bs-toggle="modal"
         data-bs-target="#addClientModal"
       >
